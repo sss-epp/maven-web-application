@@ -121,7 +121,7 @@
                                 <configuration>
                                 <verbose>true</verbose>
                                 <fork>true</fork>
-                                <executable>C:\Program Files\Java\jdk-15.0.1\bin</executable>
+                                <executable>C:\Program Files\Java\jdk-15.0.1\bin\javac</executable>
                                 </configuration>
                         </plugin>
 			<plugin>
