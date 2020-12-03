@@ -121,10 +121,10 @@
                                 <configuration>
                                 <verbose>true</verbose>
                                 <fork>true</fork>
-                                <executable>${JAVA_HOME}\bin\javac</executable>
-			        <compilerVersion>1.8.0_272</compilerVersion>
+                                <executable>C:\Program Files\Java\jdk1.8.0_271\bin\javac.exe</executable>
                                 </configuration>
                         </plugin>
+			
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
